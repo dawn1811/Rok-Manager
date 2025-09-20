@@ -1,0 +1,10 @@
+firebase-admin
+pandas
+gspread
+google-api-python-client
+google-auth==2.23.0
+google-auth-oauthlib==1.1.0
+oauth2client
+openpyxl
+firebase_functions
+bcrypt
