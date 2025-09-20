@@ -1,0 +1,5 @@
+{
+  "name": "KD 3561 Manager",
+  "description": "A web application to track and visualize player statistics for KvK events, manage player profiles, schedule events using data from spreadsheet uploads, and leverage AI for content generation for the KD 3561 community.",
+  "requestFramePermissions": []
+}
